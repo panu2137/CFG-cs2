@@ -1,0 +1,11 @@
+"config"
+{
+	"bindings"
+	{
+		"MOUSE3"		"cl_removedecals world"
+		"MOUSE4"		"+voicerecord"
+		"MOUSE5"		"player_ping"
+		"ALT"		"noclip"
+		"j"		"+vlbvvv; +friderik; +fijirano"
+	}
+}
